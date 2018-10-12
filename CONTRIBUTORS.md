@@ -397,3 +397,9 @@
 - Place: Ohio
 - Bio: Self Teaching
 - GitHub: [ccconrad](https://github.com/ccconrad)
+
+
+#### Name: [Lakshay](https://github.com/lakshaykapoor7198)
+- Place: India
+- Bio: Student
+- GitHub: [Lakshay](https://github.com/lakshaykapoor7198)
