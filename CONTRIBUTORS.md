@@ -400,6 +400,6 @@
 
 
 
-#### Name: [Donald J Trump]
+#### Name: [Donald Trump]
 - Place: Hell
 - Bio: Self Teaching
